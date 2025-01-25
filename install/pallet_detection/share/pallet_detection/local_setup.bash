@@ -1,0 +1,1 @@
+/home/varun/pallet_detection_ws/build/pallet_detection/ament_cmake_environment_hooks/local_setup.bash

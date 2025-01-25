@@ -1,0 +1,15 @@
+/home/varun/pallet_detection_ws/install/pallet_detection/share/ament_index/resource_index/package_run_dependencies/pallet_detection
+/home/varun/pallet_detection_ws/install/pallet_detection/share/ament_index/resource_index/parent_prefix_path/pallet_detection
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/ament_prefix_path.sh
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/ament_prefix_path.dsv
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/path.sh
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/path.dsv
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.bash
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.sh
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.zsh
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.dsv
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/package.dsv
+/home/varun/pallet_detection_ws/install/pallet_detection/share/ament_index/resource_index/packages/pallet_detection
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/cmake/pallet_detectionConfig.cmake
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/cmake/pallet_detectionConfig-version.cmake
+/home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/package.xml

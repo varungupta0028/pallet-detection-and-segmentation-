@@ -1,0 +1,20 @@
+[0.012s] Invoking command in '/home/varun/pallet_detection_ws/build/pallet_detection': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/varun/peer_ws/install/my_robot_planner:/home/varun/humble_ws/install/turtlesim_catch_them_all:/home/varun/humble_ws/install/my_pkg:/home/varun/unbox_ws/install/my_py_pkg:/home/varun/ros2_ws/install/my_py_pkg:/home/varun/dev_ws/install/my_pkg:/opt/ros/humble /usr/bin/cmake --build /home/varun/pallet_detection_ws/build/pallet_detection -- -j16 -l16
+[0.075s] Invoked command in '/home/varun/pallet_detection_ws/build/pallet_detection' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/varun/peer_ws/install/my_robot_planner:/home/varun/humble_ws/install/turtlesim_catch_them_all:/home/varun/humble_ws/install/my_pkg:/home/varun/unbox_ws/install/my_py_pkg:/home/varun/ros2_ws/install/my_py_pkg:/home/varun/dev_ws/install/my_pkg:/opt/ros/humble /usr/bin/cmake --build /home/varun/pallet_detection_ws/build/pallet_detection -- -j16 -l16
+[0.082s] Invoking command in '/home/varun/pallet_detection_ws/build/pallet_detection': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/varun/peer_ws/install/my_robot_planner:/home/varun/humble_ws/install/turtlesim_catch_them_all:/home/varun/humble_ws/install/my_pkg:/home/varun/unbox_ws/install/my_py_pkg:/home/varun/ros2_ws/install/my_py_pkg:/home/varun/dev_ws/install/my_pkg:/opt/ros/humble /usr/bin/cmake --install /home/varun/pallet_detection_ws/build/pallet_detection
+[0.086s] -- Install configuration: ""
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/ament_index/resource_index/package_run_dependencies/pallet_detection
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/ament_index/resource_index/parent_prefix_path/pallet_detection
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/ament_prefix_path.sh
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/ament_prefix_path.dsv
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/path.sh
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/path.dsv
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.bash
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.sh
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.zsh
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.dsv
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/package.dsv
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/ament_index/resource_index/packages/pallet_detection
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/cmake/pallet_detectionConfig.cmake
+[0.087s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/cmake/pallet_detectionConfig-version.cmake
+[0.088s] -- Up-to-date: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/package.xml
+[0.088s] Invoked command in '/home/varun/pallet_detection_ws/build/pallet_detection' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/varun/peer_ws/install/my_robot_planner:/home/varun/humble_ws/install/turtlesim_catch_them_all:/home/varun/humble_ws/install/my_pkg:/home/varun/unbox_ws/install/my_py_pkg:/home/varun/ros2_ws/install/my_py_pkg:/home/varun/dev_ws/install/my_pkg:/opt/ros/humble /usr/bin/cmake --install /home/varun/pallet_detection_ws/build/pallet_detection

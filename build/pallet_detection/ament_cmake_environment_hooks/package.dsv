@@ -1,0 +1,4 @@
+source;share/pallet_detection/local_setup.bash
+source;share/pallet_detection/local_setup.dsv
+source;share/pallet_detection/local_setup.sh
+source;share/pallet_detection/local_setup.zsh

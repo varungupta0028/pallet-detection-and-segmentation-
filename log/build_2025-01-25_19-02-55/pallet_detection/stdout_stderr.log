@@ -1,0 +1,42 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+-- Found image_transport: 3.1.10 (/opt/ros/humble/share/image_transport/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/varun/pallet_detection_ws/build/pallet_detection
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/ament_index/resource_index/package_run_dependencies/pallet_detection
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/ament_index/resource_index/parent_prefix_path/pallet_detection
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/ament_prefix_path.sh
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/ament_prefix_path.dsv
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/path.sh
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/environment/path.dsv
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.bash
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.sh
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.zsh
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/local_setup.dsv
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/package.dsv
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/ament_index/resource_index/packages/pallet_detection
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/cmake/pallet_detectionConfig.cmake
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/cmake/pallet_detectionConfig-version.cmake
+-- Symlinking: /home/varun/pallet_detection_ws/install/pallet_detection/share/pallet_detection/package.xml
